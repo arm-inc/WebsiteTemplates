@@ -1,2 +1,2 @@
 # WebsiteTemplates
-for arm inc
+for ARM Inc
