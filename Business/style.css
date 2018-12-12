@@ -35,3 +35,9 @@ NAVBAR RELATED STUFF
 .navbar-toggler:hover {
     color: #E8D1DF;
 }
+
+/*CAROUSEL ON THE HOME PAGE*/
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
