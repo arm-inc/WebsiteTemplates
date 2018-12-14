@@ -41,3 +41,8 @@ NAVBAR RELATED STUFF
     width: 100%;
     height: 100%;
 }
+
+.container{
+padding-top: 3em;
+padding-bottom: 3em;
+}
